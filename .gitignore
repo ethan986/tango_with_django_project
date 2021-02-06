@@ -51,6 +51,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+#should ignore the TWD chapter tests
+tests_chapter[3-10].py
+
 # Translations
 *.mo
 *.pot
